@@ -102,7 +102,7 @@ The look the find thine j
 ```
 tinyGPT/
 │
-├── config.py        # Centralized hyperparameters
+├── parameters.py        # Centralized hyperparameters
 ├── data.py          # Dataset loading + batching
 ├── model.py         # Transformer + GPT model
 ├── train.py         # Training loop
